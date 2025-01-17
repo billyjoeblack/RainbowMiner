@@ -1,0 +1,98 @@
+{
+  "RTC": {
+    "Penalty": "0",
+    "MinHashrate": "0",
+    "MinWorkers": "0",
+    "MaxTimeToFind": "0",
+    "PostBlockMining": "0",
+    "MinProfitPercent": "0",
+    "Wallet": "RsjJWXyN4jEQ3gaDpKFyZ9ye914fSzjmvL",
+    "Comment": "",
+    "MinHashrateSolo": "0",
+    "EnableAutoPool": "1"
+  },
+  "RTM": {
+    "Penalty": "0",
+    "MinHashrate": "0",
+    "MinWorkers": "0",
+    "MaxTimeToFind": "0",
+    "PostBlockMining": "0",
+    "MinProfitPercent": "0",
+    "Wallet": "REunqZD8Zr5ojJGoTqMjdn6KBh2Mk7ECoq",
+    "Comment": "",
+    "EnableAutoPool": "1",
+    "MinHashrateSolo": "0"
+  },
+  "RVN": {
+    "Penalty": "0",
+    "MinHashrate": "0",
+    "MinHashrateSolo": "0",
+    "MinWorkers": "0",
+    "MaxTimeToFind": "0",
+    "Wallet": "",
+    "EnableAutoPool": "0",
+    "PostBlockMining": "0",
+    "MinProfitPercent": "0",
+    "Comment": ""
+  },
+  "SAL": {
+    "Penalty": "0",
+    "MinHashrate": "0",
+    "MinWorkers": "0",
+    "MaxTimeToFind": "0",
+    "PostBlockMining": "0",
+    "MinProfitPercent": "0",
+    "Wallet": "SaLvdX6tjSxMx7z2U1EwjdWb1mVMPiGz25B9gqmBFz3AMRq3GdCbPkuDz3zacfDpbtHXmh4AKzuPHGRMtiR4So3CWXDwShxCFZc",
+    "Comment": "",
+    "EnableAutoPool": "1",
+    "MinHashrateSolo": "0"
+  },
+  "VRSC": {
+    "Penalty": "0",
+    "MinHashrate": "0",
+    "MinWorkers": "0",
+    "MaxTimeToFind": "0",
+    "PostBlockMining": "0",
+    "MinProfitPercent": "0",
+    "Wallet": "RBb7ZDXoDyczUFGNNDe4Ss6fEmVCnXWpBM",
+    "Comment": "",
+    "MinHashrateSolo": "0",
+    "EnableAutoPool": "1"
+  },
+  "XMR": {
+    "Penalty": "0",
+    "MinHashrate": "0",
+    "MinHashrateSolo": "0",
+    "MinWorkers": "0",
+    "MaxTimeToFind": "0",
+    "Wallet": "48bMuZnZHEmiCyy5BCbDRWd6QaNdiDs8UZ57tWUQFpGKSdmWJ6cPrTtFkzm5jH53oFGSwed2iL7iWMKuMMfvxUVdRhuZVdx",
+    "PostBlockMining": "0",
+    "MinProfitPercent": "0",
+    "Comment": "",
+    "EnableAutoPool": "1"
+  },
+  "XWP": {
+    "Penalty": "0",
+    "MinHashrate": "0",
+    "MinHashrateSolo": "0",
+    "MinWorkers": "0",
+    "MaxTimeToFind": "0",
+    "Wallet": "",
+    "EnableAutoPool": "0",
+    "PostBlockMining": "0",
+    "MinProfitPercent": "0",
+    "Comment": ""
+  },
+  "ZEPH": {
+    "Penalty": "0",
+    "MinHashrate": "0",
+    "MinWorkers": "0",
+    "MaxTimeToFind": "0",
+    "PostBlockMining": "0",
+    "MinProfitPercent": "0",
+    "Wallet": "ZEPHYR2D1gCXKCVjz2v6vE6Q9ih19xzCxU2Xs6sq2UY5QxeHo1tAVoFbxaMvZxqyHCTRBPKfTaSqUQgwGsfh3LJfFKtpZVPwU452v",
+    "Comment": "",
+    "EnableAutoPool": "1",
+    "MinHashrateSolo": "0"
+  }
+}
